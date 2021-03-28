@@ -3,3 +3,6 @@
 <h2 align="center">Hyper Lighthaus</h2>
 
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Hyper](https://hyper.is/)
+
+
+<p align="center">Coming Soon!<p>
