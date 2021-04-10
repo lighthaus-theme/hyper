@@ -1,6 +1,6 @@
 {
   "name": "hyper-lighthaus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Lighthaus theme for Hyper",
   "main": "index.js",
   "homepage": "https://github.com/lighthaus-theme/hyper#readme",
@@ -18,9 +18,10 @@
     "hyper-theme"
   ],
   "author": "Adhiraj Sirohi (https://github.com/Brutuski)",
-  "contributors": [{
-    "name" : "Mohammed Imran",
-    "url" : "https://github.com/m0hammedimran"
+  "contributors": [
+    {
+      "name": "Mohammed Imran",
+      "url": "https://github.com/m0hammedimran"
     }
   ],
   "license": "MIT",
