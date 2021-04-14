@@ -18,6 +18,7 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Hyper](ht
 ### Screenshots
 
 <p align="center"><img src="https://github.com/lighthaus-theme/hyper/blob/main/assets/hyper-01.png?raw=true"><p>
+<p align="center"><img src="https://github.com/lighthaus-theme/hyper/blob/main/assets/hyper-03.png?raw=true"><p>
 <p align="center"><img src="https://github.com/lighthaus-theme/hyper/blob/main/assets/hyper-02.png?raw=true"><p>
 
 
@@ -43,7 +44,7 @@ Pull Request Template can be found [here](https://github.com/lighthaus-theme/lig
 ### Version
 
 ```vim
-v 1.0.0
+v 1.1.1
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>

@@ -2,10 +2,15 @@
 
 ### Table of Contents
 - [v1.0.0](#v1.0.0)
+- [v1.1.1](#v1.1.1)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
 
+### v1.1.1 
+- Minor Bug fixes
+- Highlighted active tab name
+- Tabs border added _(14/04/2021)_
 
 ### v1.0.0 
 - Initial Commit 

@@ -36,10 +36,13 @@ exports.decorateConfig = config => {
     `,
      css: `
       ${config.css || ''}
+      .hyper_main {
+        border: 5px !important;
+      }
       .tabs_list .tab_tab.tab_active .tab_text  {
         border: transparent;
         font-weight: bold;
-        color: #8E8D8D;
+        color: #FFFF00;
         background-color: ${backgroundColor};
         background: ${backgroundColor};
       }
@@ -48,6 +51,20 @@ exports.decorateConfig = config => {
       }
       .splitpane_divider {
       	background-color: #CCCCCC !important;
+      }
+      .tabs_title {
+        display: none !important
+      }
+      .tab_tab::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height 1px;
+        background-color: ${backgroundColor};
+        transform: scalceX(0);
+        will-change: transform;
       }
     `,
   });
