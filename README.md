@@ -44,7 +44,7 @@ Pull Request Template can be found [here](https://github.com/lighthaus-theme/lig
 ### Version
 
 ```vim
-v 1.1.1
+v 1.1.2
 ```
 
 _Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/)._ <br/>

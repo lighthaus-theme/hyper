@@ -66,6 +66,10 @@ exports.decorateConfig = config => {
         transform: scalceX(0);
         will-change: transform;
       }
+      .tab_icon {
+        background-color: #21252D;
+        opacity: 0.8;
+      }
     `,
   });
 };

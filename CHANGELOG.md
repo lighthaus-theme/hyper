@@ -3,9 +3,12 @@
 ### Table of Contents
 - [v1.0.0](#v1.0.0)
 - [v1.1.1](#v1.1.1)
+- [v1.1.2](#v1.1.2)
 - [Versioning System](#versioning-system)
 - [License](#license)
 
+### v1.1.2
+- Tab closing icon made visible _(10/05/2021)_
 
 ### v1.1.1 
 - Minor Bug fixes
